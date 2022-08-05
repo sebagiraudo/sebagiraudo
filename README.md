@@ -10,7 +10,7 @@ I'm Sebastian Giraudo. I'm a Computer Science Student at FaMAF, Universidad Naci
 ### ✅ Certifications:
 - [FreeCodeCamp - Relational Database](https://www.freecodecamp.org/certification/sebagiraudo/relational-database-v8)
 - [FreeCodeCamp - Scientific Computing with Python](https://www.freecodecamp.org/certification/sebagiraudo/scientific-computing-with-python-v7)
-- [Kaggle - Intro to Machine Learning] (https://www.kaggle.com/learn/certification/sebastiangiraudo/intro-to-machine-learning)
+- [Kaggle - Intro to Machine Learning](https://www.kaggle.com/learn/certification/sebastiangiraudo/intro-to-machine-learning) 
 
 ### 📫 How to reach me:
 Here is my [twitter](https://twitter.com/SebaGiraudo)
