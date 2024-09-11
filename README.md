@@ -40,6 +40,7 @@ I recently attended [zkCity](https://www.zkcity.xyz/), a week-long event focused
 - [Kaggle - Data Visualization](https://www.kaggle.com/learn/certification/sebastiangiraudo/data-visualization)
 
 ### 💼 Projects:
+- **[TLSN - Duolingo](https://github.com/sebagiraudo/tlsn-duolingo):** Proof of concept to create a proof that you have a streak on Duolingo.
 - **[PyRobos](https://github.com/orgs/whileTrue-FaMAFyC/repositories):** Multiplayer game developed as a project for university.
 
 ### 💼 Professional Experience:
