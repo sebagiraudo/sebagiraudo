@@ -2,16 +2,20 @@
 
 I'm Sebastian Giraudo. I'm a Computer Science Student at FaMAF, Universidad Nacional de Córdoba, Argentina 🇦🇷.
 
-👨🏻‍💻 Currently part of the [PSE Core Program](https://pse.dev/en/programs), where I’m diving deep into Programmable Cryptography, Zero Knowledge Proofs, Multi-Party Computation, and other cutting-edge privacy technologies. This 8-week program is supported by the [Privacy + Scaling Explorations](https://pse.dev/en), which is a multidisciplinary team supported by the Ethereum Foundation.
-
-I recently attended [zkCity](https://www.zkcity.xyz/), a week-long event focused on Zero Knowledge, further expanding my expertise in privacy and scaling explorations.
+👨🏻‍💻 I participated in the [PSE Core Program](https://pse.dev/en/programs) LATAM 2024, studying topics such as Programmable Cryptography, Zero Knowledge Proofs, Multi-Party Computation, and other cutting-edge privacy technologies. This 8-week program is supported by the [Privacy + Scaling Explorations](https://pse.dev/en), which is a multidisciplinary team supported by the Ethereum Foundation. I also attended [zkCity](https://www.zkcity.xyz/), a week-long event focused on Zero Knowledge, further expanding my expertise in privacy and scaling explorations.
 
 ### 🌱 I’m currently interested in:
 - Zero Knowledge Cryptography
-- Privacy and Security
-- Blockchain scaling solutions
 - Cryptographic protocols
+- Privacy and Security
 - Zero Knwoledge Machine Learning
+- Post-quantum cryptography
+
+### 💼 Projects:
+- **[TLSN - Duolingo](https://github.com/sebagiraudo/tlsn-duolingo):** Proof of concept to generate a verifiable proof that you have a Duolingo streak, without revealing any additional information.
+- **[Merkle Tree Visualizer](https://merkle-tree-visualizer.vercel.app/)** Web app for visualizing Merkle Tree proofs interactively.
+- **[PyRobos](https://github.com/orgs/whileTrue-FaMAFyC/repositories):** Multiplayer game developed as a project for university.
+- Occasionally share thoughts and write [here](https://mirror.xyz/sebagiraudo.eth)
 
 ### 🛠 Skills:
 - **Languages:** Python, C, Haskell, JavaScript, TypeScript, Rust, Circom
@@ -19,7 +23,7 @@ I recently attended [zkCity](https://www.zkcity.xyz/), a week-long event focused
 - **Tools:** Git, PostgreSQL, MongoDB, n8n, Postman, WebAssembly
 
 ### 🎓 Education:
-- [**Licenciatura en Ciencias de la Computación**](https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/)
+- [**Licenciatura en Ciencias de la Computación**](https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/) (expected graduation June 2025)
   - FaMAF, Universidad Nacional de Córdoba, Argentina
   - Elective courses: Quantum Computing, Data Science
 - **Extra courses**
@@ -39,10 +43,6 @@ I recently attended [zkCity](https://www.zkcity.xyz/), a week-long event focused
 - [Kaggle - Pandas](https://www.kaggle.com/learn/certification/sebastiangiraudo/pandas)
 - [Kaggle - Data Visualization](https://www.kaggle.com/learn/certification/sebastiangiraudo/data-visualization)
 
-### 💼 Projects:
-- **[TLSN - Duolingo](https://github.com/sebagiraudo/tlsn-duolingo):** Proof of concept to create a proof that you have a streak on Duolingo.
-- **[PyRobos](https://github.com/orgs/whileTrue-FaMAFyC/repositories):** Multiplayer game developed as a project for university.
-
 ### 💼 Professional Experience:
 - **Backend Software Engineer** (2023 - 2024)
   - Developed and maintained backend services using FastAPI.
@@ -54,6 +54,5 @@ I recently attended [zkCity](https://www.zkcity.xyz/), a week-long event focused
   - Utilized Postman for API testing and documentation.
 
 ### 😄 Misc. Information:
-- **Languages:** Spanish (native), English (
-Full professional proficiency), German (basic)
-- **Hobbies:** Reading, going to the gym, hiking, running
+- **Languages:** Spanish (native), English (Full professional proficiency), German (basic)
+- **Hobbies:** Traveling, reading, going to the gym, hiking, running, diving
